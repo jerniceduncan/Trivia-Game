@@ -1,0 +1,14 @@
+body{
+
+	text-align: center;
+}
+
+.text-muted{
+	color:yellowgreen;
+}
+.last-seconds{
+  color:pink;
+}
+.option{
+  margin: 15px;
+}
